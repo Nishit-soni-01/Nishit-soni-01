@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Nishit Soni
 ### Data Scientist | AI Engineer | 3rd Year B.Tech (ELCE) @ ABES EC
 
-<img src="./Assets/profile.jpg" width="180" style="border-radius: 50%; border: 3px solid #0077B5;">
+<img src="./Assets/profile-pic.png" width="180" style="border-radius: 50%; border: 3px solid #0077B5;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishit-soni-in)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishit-soni-01)
