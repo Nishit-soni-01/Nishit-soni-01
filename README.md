@@ -55,7 +55,7 @@ Real-world problem solving through competitive innovation.
   <tr>
     <td align="center"><img src="./Assets/CERTIFICATE_of_Finalist_in_Hackamania_By_MicroSoft.png" width="280"><br><b>Microsoft Hackathon Finalist</b></td>
     <td align="center"><img src="./Assets/Biz_Tech_Ideathon_2025.png" width="280"><br><b>Biz Tech Ideathon 2025</b></td>
-    <td align="center"><img src="./Assets/NextGen_hackat_on_2025.png" width="280"><br><b>NextGen Hackathon 2025</b></td>
+    <td align="center"><img src="./Assets/NextGen_Hackat_on_2025.png" width="280"><br><b>NextGen Hackathon 2025</b></td>
   </tr>
 </table>
 
