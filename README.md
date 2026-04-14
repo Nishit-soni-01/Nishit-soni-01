@@ -1,16 +1,74 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Nishit-soni-01/Nishit-soni-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Nishit Soni
+### Data Scientist | AI Engineer | 3rd Year B.Tech (ELCE) @ ABES EC
 
-Here are some ideas to get you started:
+<img src="./Assets/profile.jpg" width="180" style="border-radius: 50%; border: 3px solid #0077B5;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishit-soni-in)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishit-soni-01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ns2004.soni@gmail.com)
+
+---
+
+"Turning complex datasets into intelligent solutions and visual stories."
+
+</div>
+
+## 👨‍💻 Professional Summary
+[cite_start]I am a driven engineering student with a **8.17 CGPA**[cite: 14, 57], bridging the gap between **Electrical Engineering** and **Advanced Data Science**. [cite_start]I specialize in **Generative AI**, **Cloud-based ML deployment**, and **Data Analytics**[cite: 44, 47, 113].
+
+- [cite_start]🏆 **Top 10 Finalist** @ Microsoft Hackathon for real-time analytics[cite: 30, 69].
+- [cite_start]🤖 **IBM Certified** in Prompt Engineering[cite: 101, 104].
+- [cite_start]📊 **Tata GenAI** Graduate – Specializing in risk profiling & predictive AI[cite: 113, 120].
+- 🥇 **250+ Problems Solved** on CodeChef with consistent 100-day streaks.
+
+---
+
+## 🛠️ Technical Toolkit
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | [cite_start]Python (Primary), SQL, R, C++, Java [cite: 9, 45] |
+| **AI & ML** | [cite_start]Regression, Classification, NLP, CNN, ANN [cite: 46, 47] |
+| **Data Tools** | [cite_start]Pandas, NumPy, Scikit-learn, TensorFlow [cite: 48, 87] |
+| **Visualization** | [cite_start]Power BI, Tableau, Excel [cite: 10, 22, 26] |
+| **Cloud/DB** | [cite_start]AWS, Snowflake, Google Big Query, MySQL [cite: 10, 28] |
+
+---
+
+## 🏆 Proof of Work & Certifications
+
+<table border="0">
+  <tr>
+    <td align="center"><img src="./Assets/ms-hackathon.jpg" width="280"><br><b>Microsoft Hackathon Finalist</b></td>
+    <td align="center"><img src="./Assets/ibm-prompt.jpg" width="280"><br><b>IBM Prompt Engineering</b></td>
+    <td align="center"><img src="./Assets/tata-genai.jpg" width="280"><br><b>Tata Data Analytics</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./Assets/lc-100.png" width="180"><br><b>100 Days LeetCode</b></td>
+    <td align="center"><img src="./Assets/cc-diamond.jpg" width="180"><br><b>CodeChef Diamond Streak</b></td>
+    <td align="center"><img src="./Assets/cc-silver.jpg" width="180"><br><b>250+ Problems Solved</b></td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Key Projects
+- **Smart Patient Triage:** ML-driven clinical prioritization system.
+- **Sentinel Fraud Detection:** Financial risk assessment deployed on **AWS**.
+- [cite_start]**Cloud BI Integration:** Unified dashboards using **Snowflake & BigQuery**[cite: 28, 67].
+- **Algerian Forest Fire:** Predictive environmental risk modeling.
+
+---
+
+## 🎨 Beyond the Code
+- **Sketching:** Lead artist @ "Integral of Shades".
+- **Poetry:** Original Hindi & Urdu compositions.
+- **Music:** Passionate guitar player.
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishit-soni-01&theme=radical" alt="GitHub Streak" />
+  <br>
+  <sub>Built with ❤️ by Nishit Soni</sub>
+</div>
