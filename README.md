@@ -54,6 +54,7 @@ Real-world problem solving through competitive innovation.
 <table border="0">
   <tr>
     <td align="center"><img src="./Assets/CERTIFICATE_of_Finalist_in_Hackamania_By_MicroSoft.png" width="280"><br><b>Microsoft Hackathon Finalist</b></td>
+    <td align="center"><img src="./Assets/CERTIFICATE_of_Finalist_in_International_level_Hackthon_Hack_Gensis'25.png" width="280"><br><b>International level Hackathon Finalist</b></td>
     <td align="center"><img src="./Assets/Biz_Tech_Ideathon_2025.png" width="280"><br><b>Biz Tech Ideathon 2025</b></td>
     <td align="center"><img src="./Assets/NextGen_Hackat_on_2025.png" width="280"><br><b>NextGen Hackathon 2025</b></td>
   </tr>
@@ -75,6 +76,7 @@ Verified expertise in Data Science, Cloud, and Networking.
     <td align="center"><img src="./Assets/Sql.png" width="280"><br><b>SQL Expert </b></td>
     <td align="center"><img src="./Assets/Data_analyst.png" width="280"><br><b>Data Analyst Bootcamp</b></td>
     <td align="center"><img src="./Assets/Machine_learning.png" width="280"><br><b>Machine Learning </b></td>
+    <td align="center"><img src="./Assets/Rust.png" width="280"><br><b> Rust </b></td>
     
   </tr>
 </table>
@@ -87,13 +89,23 @@ A testament to my daily commitment to algorithmic problem solving.
 <table border="0">
   <tr>
     <td align="center"><img src="./Assets/100_Day_Badge.png" width="180"><br><b>100 Days LeetCode</b></td>
+    <td align="center"><img src="./Assets/50_Days_badge_2025.png" width="180"><br><b>50 Days LeetCode 2025</b></td>
+    <td align="center"><img src="./Assets/50_Days_badge_2026.png" width="180"><br><b>50 Days LeetCode 2026</b></td>
+    <td align="center"><img src="./Assets/50_SQL_Badge.png" width="180"><br><b>50 Days SQL LeetCode </b></td>
     <td align="center"><img src="./Assets/Introduction_to_Pandas.png" width="180"><br><b>Introduction to Pandas</b></td>
     <td align="center"><img src="./Assets/CodeChefBadge_100_day_stike.png" width="180"><br><b>CodeChef Diamond Streak</b></td>
-    <td align="center"><img src="./Assets/CodeChefBadge_250_problem_sliver.png" width="180"><br><b>250+ Problems Solved</b></td>
-    <td align="center"><img src="./Assets/Introduction_to_Pandas.png" width="280"><br><b>Introduction to Pandas</b></td>
+    <td align="center"><img src="./Assets/CodeChefBadge_50_day_strike_gold.png" width="180"><br><b>CodeChef Diamond Streak</b></td>
+    
+  </tr>
+
+  <tr>
+    <td align="center"><img src="./Assets/CodeChefBadge_ 250_problem_sliver.png" width="180"><br><b>CodeChef 250 problem badge</b></td>
+    <td align="center"><img src="./Assets/CodeChefBadge_100_day_stike.png" width="180"><br><b>CodeChef Diamond Streak</b></td>
+    <td align="center"><img src="./Assets/CodeChefBadge_50_day_strike_gold.png" width="180"><br><b>CodeChef 50 Day Gold Badge</b></td>
+    <td align="center"><img src="./Assets/CodeChefBadge_contentes_bronze.png" width="180"><br><b>CodeChef  Bronze Contest Badge</b></td>
+    
   </tr>
 </table>
-
 ---
 
 ## 🎨 Beyond the Code
