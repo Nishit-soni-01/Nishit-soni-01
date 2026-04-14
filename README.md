@@ -16,11 +16,11 @@
 </div>
 
 ## 👨‍💻 Professional Summary
-[cite_start]I am a driven engineering student with a **8.17 CGPA**[cite: 14, 57], bridging the gap between **Electrical Engineering** and **Advanced Data Science**. [cite_start]I specialize in **Generative AI**, **Cloud-based ML deployment**, and **Data Analytics**[cite: 44, 47, 113].
+I am a driven engineering student with a **8.17 CGPA**[cite: 14, 57], bridging the gap between **Electrical Engineering** and **Advanced Data Science**.I specialize in **Generative AI**, **Cloud-based ML deployment**, and **Data Analytics**.
 
-- [cite_start]🏆 **Top 10 Finalist** @ Microsoft Hackathon for real-time analytics[cite: 30, 69].
-- [cite_start]🤖 **IBM Certified** in Prompt Engineering[cite: 101, 104].
-- [cite_start]📊 **Tata GenAI** Graduate – Specializing in risk profiling & predictive AI[cite: 113, 120].
+- 🏆 **Top 10 Finalist** @ Microsoft Hackathon for real-time analytics.
+- 🤖 **IBM Certified** in Prompt Engineering.
+- 📊 **Tata GenAI** Graduate – Specializing in risk profiling & predictive AI.
 - 🥇 **250+ Problems Solved** on CodeChef with consistent 100-day streaks.
 
 ---
@@ -29,11 +29,11 @@
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | [cite_start]Python (Primary), SQL, R, C++, Java [cite: 9, 45] |
-| **AI & ML** | [cite_start]Regression, Classification, NLP, CNN, ANN [cite: 46, 47] |
-| **Data Tools** | [cite_start]Pandas, NumPy, Scikit-learn, TensorFlow [cite: 48, 87] |
-| **Visualization** | [cite_start]Power BI, Tableau, Excel [cite: 10, 22, 26] |
-| **Cloud/DB** | [cite_start]AWS, Snowflake, Google Big Query, MySQL [cite: 10, 28] |
+| **Languages** | Python (Primary), SQL, R, C++, Java  |
+| **AI & ML** | Regression, Classification, NLP, CNN, ANN  |
+| **Data Tools** | Pandas, NumPy, Scikit-learn, TensorFlow  |
+| **Visualization** | Power BI, Tableau, Excel  |
+| **Cloud/DB** | AWS, Snowflake, Google Big Query, MySQL  |
 
 ---
 
