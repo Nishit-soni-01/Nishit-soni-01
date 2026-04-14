@@ -69,11 +69,13 @@ Verified expertise in Data Science, Cloud, and Networking.
     <td align="center"><img src="./Assets/Prompy_engineering.png" width="280"><br><b>IBM Prompt Engineering</b></td>
     <td align="center"><img src="./Assets/next_genAI.png" width="280"><br><b>Tata Data Analytics</b></td>
     <td align="center"><img src="./Assets/python_essentials.png" width="280"><br><b>CISCO Python Essentials</b></td>
+    <td align="center"><img src="./Assets/introduction_to_data_science.png" width="280"><br><b>CISCO Introduction to Data Science</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="./Assets/Introduction_to_Pandas.png" width="280"><br><b>Introduction to Pandas</b></td>
-    <td align="center"><img src="./Assets/Sql.png" width="280"><br><b>SQL Expert (Udemy)</b></td>
+    <td align="center"><img src="./Assets/Sql.png" width="280"><br><b>SQL Expert </b></td>
     <td align="center"><img src="./Assets/Data_analyst.png" width="280"><br><b>Data Analyst Bootcamp</b></td>
+    <td align="center"><img src="./Assets/Machine_learning.png" width="280"><br><b>Machine Learning </b></td>
+    
   </tr>
 </table>
 
@@ -85,8 +87,10 @@ A testament to my daily commitment to algorithmic problem solving.
 <table border="0">
   <tr>
     <td align="center"><img src="./Assets/100_Day_Badge.png" width="180"><br><b>100 Days LeetCode</b></td>
+    <td align="center"><img src="./Assets/Introduction_to_Pandas.png" width="180"><br><b>Introduction to Pandas</b></td>
     <td align="center"><img src="./Assets/CodeChefBadge_100_day_stike.png" width="180"><br><b>CodeChef Diamond Streak</b></td>
     <td align="center"><img src="./Assets/CodeChefBadge_250_problem_sliver.png" width="180"><br><b>250+ Problems Solved</b></td>
+    <td align="center"><img src="./Assets/Introduction_to_Pandas.png" width="280"><br><b>Introduction to Pandas</b></td>
   </tr>
 </table>
 
