@@ -41,7 +41,7 @@ I am a driven engineering student with a **8.17 CGPA**[cite: 14, 57], bridging t
 
 <table border="0">
   <tr>
-    <td align="center"><img src="./Assets/ms-hackathon.jpg" width="280"><br><b>Microsoft Hackathon Finalist</b></td>
+    <td align="center"><img src="./Assets/CERTIFICATE_of_Finalist_in_Hackamania_By_MicroSoft.png" width="280"><br><b>Microsoft Hackathon Finalist</b></td>
     <td align="center"><img src="./Assets/ibm-prompt.jpg" width="280"><br><b>IBM Prompt Engineering</b></td>
     <td align="center"><img src="./Assets/tata-genai.jpg" width="280"><br><b>Tata Data Analytics</b></td>
   </tr>
