@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF;FF007F&center=true&vCenter=true&width=800&lines=🤖+Data+Scientist+%26+ML+Practitioner;⚙️+Competitive+Programmer+(Java+%26+DSA);🎓+B.Tech+ELCE+Student+@+ABES;🚀+Building+Predictive+AI+%26+Cloud+BI+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%26+ML+Practitioner;Competitive+Programmer+(Java+%26+DSA);B.Tech+ELCE+Student+@+ABES;Building+Predictive+AI+%26+Cloud+BI+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,10 +21,10 @@
   <a href="https://github.com/Nishit-soni-01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/integralofshades" target="_blank">
+  <a href="https://www.instagram.com/nishit_soni178?igsh=NDZvM2NsaDhobnFx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://x.com/YOUR_X_HANDLE_HERE" target="_blank">
+  <a href="https://x.com/NishitSoni_042" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </div>
