@@ -160,10 +160,11 @@ A testament to my daily commitment to algorithmic problem solving.
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nishit-soni-01&theme=tokyonight&margin-w=15&column=7" alt="Nishit-soni-01 Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Nishit-soni-01" alt="Nishit-soni-01 Trophies" />
   </a>
 </div>
 <br/>
+
 
 ## 📊 GitHub Analytics
 
