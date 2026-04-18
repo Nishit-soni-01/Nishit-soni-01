@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=200&section=header&text=Hello,%20I'm%20Nishit%20Soni&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=🤖%20Hello,%20I'm%20Nishit%20Soni%20🤖&fontSize=50&fontAlignY=35&animation=twinkling&desc=Welcome%20to%20my%20Cyber%20Workspace&descSize=20&descAlignY=55" width="100%" />
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%26+ML+Practitioner;Competitive+Programmer+(Java+%26+DSA);B.Tech+ELCE+Student+@+ABES;Building+Predictive+AI+%26+Cloud+BI+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF;FF007F&center=true&vCenter=true&width=800&lines=🤖+Data+Scientist+%26+ML+Practitioner;⚙️+Competitive+Programmer+(Java+%26+DSA);🎓+B.Tech+ELCE+Student+@+ABES;🚀+Building+Predictive+AI+%26+Cloud+BI+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
   <a href="https://nishit-soni-01.github.io/PortFolio_site/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00C2FF&borderColor=00C2FF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FFFF&borderColor=00FFFF" alt="Portfolio" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ns2004.soni@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -21,10 +21,10 @@
   <a href="https://github.com/Nishit-soni-01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/nishit_soni178?igsh=NDZvM2NsaDhobnFx" target="_blank">
+  <a href="https://instagram.com/integralofshades" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://x.com/NishitSoni_042" target="_blank">
+  <a href="https://x.com/YOUR_X_HANDLE_HERE" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </div>
@@ -83,6 +83,7 @@ Beyond the terminal, I believe in the fusion of logic and creativity:
 * **Exploratory Data Analysis Engine:** Engineered features and applied advanced visualizations on datasets including Play Store metrics, Red Wine quality, and Flight Prices using Python and Pandas.
 * **Algerian Forest Fire Predictor:** Designed an environmental risk modeling project utilizing regression algorithms to predict potential fire outbreaks.
 
+---
 ---
 
 ## 📄 Resume & Curriculum Vitae
