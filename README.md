@@ -21,7 +21,7 @@
   <a href="https://instagram.com/integralofshades" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://x.com/YOUR_X_HANDLE_HERE" target="_blank">
+  <a href="https://x.com/NishitSoni_042" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </div>
