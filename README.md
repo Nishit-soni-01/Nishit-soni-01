@@ -38,8 +38,8 @@ I am a driven B.Tech ELCE student (CGPA: 8.17) with a deep focus on **Machine Le
 ### 🎭 Hobbies & Interests
 Beyond the terminal, I believe in the fusion of logic and creativity:
 - ✏️ **Sketching:** I am a visual artist specializing in advanced pencil sketching and shading. I manage an art platform called *Integral of Shades*.
-- 🎸 **Playing Guitar:** I am a self-taught guitarist who enjoys practicing musical proficiency and have mastered over 15 complex compositions.
-- ✍️ **Poetry:** I write original Hindi and Urdu poetry, often authoring pieces for college events.
+- 🎸 **Playing Guitar:** I’m a self-taught guitarist who loves playing music
+- ✍️ **Poetry:** I also write original Hindi and Urdu poetry, often authoring pieces for college events.
 
 ---
 
