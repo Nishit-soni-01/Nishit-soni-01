@@ -9,14 +9,20 @@
 </p>
 
 <div align="center">
-  <a href="mailto:ns2004.soni@gmail.com">
+  <a href="mailto:ns2004.soni@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/nishit-soni-in">
+  <a href="https://www.linkedin.com/in/nishit-soni-in" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Nishit-soni-01">
+  <a href="https://github.com/Nishit-soni-01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/integralofshades" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/YOUR_X_HANDLE_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </div>
 
@@ -24,7 +30,7 @@
 
 ## 🚀 About Me
 
-[cite_start]I am a driven B.Tech ELCE student (CGPA: 8.17) with a deep focus on **Machine Learning, Data Science, and Cloud Architecture**[cite: 52, 57]. From engineering real-time fraud detection systems to building predictive environmental models, I thrive at the intersection of complex data and actionable insights. I actively participate in competitive programming using Java and DSA, and I am passionate about creating efficient backend architectures.
+I am a driven B.Tech ELCE student (CGPA: 8.17) with a deep focus on **Machine Learning, Data Science, and Cloud Architecture**. From engineering real-time fraud detection systems to building predictive environmental models, I thrive at the intersection of complex data and actionable insights. I actively participate in competitive programming using Java and DSA, and I am passionate about creating efficient backend architectures.
 
 ### 🎭 Hobbies & Interests
 Beyond the terminal, I believe in the fusion of logic and creativity:
@@ -69,11 +75,12 @@ Beyond the terminal, I believe in the fusion of logic and creativity:
 
 * **Sentinel Fraud Detection Engine:** Engineered a financial risk assessment architecture and deployed it seamlessly on AWS.
 * **Smart Patient Triage System:** Developed an ML-driven application designed to prioritize patients dynamically based on symptom severity, packaged and deployed via Streamlit.
-* [cite_start]**Cloud-Based BI Integrations:** Created comprehensive dashboards leveraging Snowflake, BigQuery, AWS, and Azure for deep loan, product, and housing data analysis[cite: 67].
-* [cite_start]**SQL-Integrated Web Application:** Built a real-time web app with MySQL backend integration to efficiently capture user inputs and improve data accessibility[cite: 62].
-* [cite_start]**Exploratory Data Analysis Engine:** Engineered features and applied advanced visualizations on datasets including Play Store metrics, Red Wine quality, and Flight Prices using Python and Pandas[cite: 60, 61].
+* **Cloud-Based BI Integrations:** Created comprehensive dashboards leveraging Snowflake, BigQuery, AWS, and Azure for deep loan, product, and housing data analysis.
+* **SQL-Integrated Web Application:** Built a real-time web app with MySQL backend integration to efficiently capture user inputs and improve data accessibility.
+* **Exploratory Data Analysis Engine:** Engineered features and applied advanced visualizations on datasets including Play Store metrics, Red Wine quality, and Flight Prices using Python and Pandas.
 * **Algerian Forest Fire Predictor:** Designed an environmental risk modeling project utilizing regression algorithms to predict potential fire outbreaks.
 
+---
 ---
 
 ## 📄 Resume & Curriculum Vitae
