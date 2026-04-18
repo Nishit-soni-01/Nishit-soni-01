@@ -157,13 +157,33 @@ A testament to my daily commitment to algorithmic problem solving.
 </table>
 ---
 
-## 🎨 Beyond the Code
-* **Sketching:** Lead artist @ "Integral of Shades" (Instagram).
-* **Poetry:** Original Hindi & Urdu compositions.
-* **Music:** Passionate guitar player.
+
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishit-soni-01&theme=radical" alt="GitHub Streak" />
-  <br>
-  <sub>Built with ❤️ by Nishit Soni</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishit-soni-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishit-soni-01&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishit-soni-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🐍 My Code Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishit-soni-01/Nishit-soni-01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishit-soni-01/Nishit-soni-01/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nishit-soni-01/Nishit-soni-01/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+<div align="center">
+  <i>"Transforming complex data into elegant, intelligent solutions."</i>
 </div>
