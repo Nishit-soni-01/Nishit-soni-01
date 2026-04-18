@@ -1,39 +1,78 @@
 <div align="center">
-
-# 👋 Hi, I'm Nishit Soni
-### Data Scientist | AI Engineer | 3rd Year B.Tech (ELCE) @ ABES EC
-
-<img src="./Assets/profile-pic.png" width="180" style="border-radius: 50%; border: 3px solid #0077B5;">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishit-soni-in)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishit-soni-01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ns2004.soni@gmail.com)
-
----
-
-"Turning complex datasets into intelligent solutions and visual stories."
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=200&section=header&text=Hello,%20I'm%20Nishit%20Soni&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
 </div>
 
-## 👨‍💻 Professional Summary
-I am a driven engineering student with a **8.17 CGPA**, bridging the gap between **Electrical Engineering** and **Advanced Data Science**. I specialize in **Generative AI**, **Cloud-based ML deployment**, and **Data Analytics**.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%26+ML+Practitioner;Competitive+Programmer+(Java+%26+DSA);B.Tech+ELCE+Student+@+ABES;Building+Predictive+AI+%26+Cloud+BI+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
-* 🏆 **Top 10 Finalist** @ Microsoft Hackathon for designing real-time analytics systems.
-* 🤖 **IBM Certified** in Prompt Engineering for Everyone.
-* 📊 **Tata GenAI Graduate** – Completed job simulation for AI-powered data analytics and risk profiling.
-* 🥇 **250+ Problems Solved** on CodeChef with consistent 100-day streaks.
+<div align="center">
+  <a href="mailto:ns2004.soni@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishit-soni-in">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Nishit-soni-01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+[cite_start]I am a driven B.Tech ELCE student (CGPA: 8.17) with a deep focus on **Machine Learning, Data Science, and Cloud Architecture**[cite: 52, 57]. From engineering real-time fraud detection systems to building predictive environmental models, I thrive at the intersection of complex data and actionable insights. I actively participate in competitive programming using Java and DSA, and I am passionate about creating efficient backend architectures.
+
+### 🎭 Hobbies & Interests
+Beyond the terminal, I believe in the fusion of logic and creativity:
+- ✏️ **Sketching:** I am a visual artist specializing in advanced pencil sketching and shading. I manage an art platform called *Integral of Shades*.
+- 🎸 **Playing Guitar:** I am a self-taught guitarist who enjoys practicing musical proficiency and have mastered over 15 complex compositions.
+- ✍️ **Poetry:** I write original Hindi and Urdu poetry, often authoring pieces for college events.
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🛠️ Technical Arsenal
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | Python (Primary), SQL, R, C++, Java |
-| **AI & ML** | Regression, Classification, NLP, CNN, ANN |
-| **Data Tools** | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch |
-| **Visualization** | Power BI, Tableau, Excel |
-| **Cloud/DB** | AWS, Snowflake, Google Big Query, MySQL |
+### **Languages & Core**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### **Machine Learning & AI**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### **Cloud, BI & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+---
+
+## 💻 Featured Projects & Systems
+
+* **Sentinel Fraud Detection Engine:** Engineered a financial risk assessment architecture and deployed it seamlessly on AWS.
+* **Smart Patient Triage System:** Developed an ML-driven application designed to prioritize patients dynamically based on symptom severity, packaged and deployed via Streamlit.
+* [cite_start]**Cloud-Based BI Integrations:** Created comprehensive dashboards leveraging Snowflake, BigQuery, AWS, and Azure for deep loan, product, and housing data analysis[cite: 67].
+* [cite_start]**SQL-Integrated Web Application:** Built a real-time web app with MySQL backend integration to efficiently capture user inputs and improve data accessibility[cite: 62].
+* [cite_start]**Exploratory Data Analysis Engine:** Engineered features and applied advanced visualizations on datasets including Play Store metrics, Red Wine quality, and Flight Prices using Python and Pandas[cite: 60, 61].
+* **Algerian Forest Fire Predictor:** Designed an environmental risk modeling project utilizing regression algorithms to predict potential fire outbreaks.
 
 ---
 
