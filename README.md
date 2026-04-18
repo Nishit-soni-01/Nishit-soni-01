@@ -12,7 +12,7 @@
   <a href="https://nishit-soni-01.github.io/PortFolio_site/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00C2FF&borderColor=00C2FF" alt="Portfolio" />
   </a>
-  <a href="mailto:ns2004.soni@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ns2004.soni@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/nishit-soni-in" target="_blank">
