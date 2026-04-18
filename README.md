@@ -157,13 +157,8 @@ A testament to my daily commitment to algorithmic problem solving.
 </table>
 ---
 
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nishit-soni-01" alt="Nishit-soni-01 Trophies" />
-  </a>
-</div>
-<br/>
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ## 📊 GitHub Analytics
