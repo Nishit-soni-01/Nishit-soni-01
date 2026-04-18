@@ -9,7 +9,10 @@
 </p>
 
 <div align="center">
-  <a href="mailto:ns2004.soni@gmail.com" target="_blank">
+  <a href="https://nishit-soni-01.github.io/PortFolio_site/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00C2FF&borderColor=00C2FF" alt="Portfolio" />
+  </a>
+  <a href="mailto:ns2004.soni@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/nishit-soni-in" target="_blank">
@@ -18,7 +21,7 @@
   <a href="https://github.com/Nishit-soni-01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/integralofshades" target="_blank">
+  <a href="https://www.instagram.com/nishit_soni178?igsh=NDZvM2NsaDhobnFx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://x.com/NishitSoni_042" target="_blank">
@@ -35,8 +38,8 @@ I am a driven B.Tech ELCE student (CGPA: 8.17) with a deep focus on **Machine Le
 ### 🎭 Hobbies & Interests
 Beyond the terminal, I believe in the fusion of logic and creativity:
 - ✏️ **Sketching:** I am a visual artist specializing in advanced pencil sketching and shading. I manage an art platform called *Integral of Shades*.
-- 🎸 **Playing Guitar:** I’m a self-taught guitarist, and I love playing music on my guitar.
-- ✍️ **Poetry:** I also write original Hindi and Urdu poetry, often authoring pieces for college events.
+- 🎸 **Playing Guitar:** I am a self-taught guitarist who enjoys practicing musical proficiency and have mastered over 15 complex compositions.
+- ✍️ **Poetry:** I write original Hindi and Urdu poetry, often authoring pieces for college events.
 
 ---
 
@@ -80,7 +83,6 @@ Beyond the terminal, I believe in the fusion of logic and creativity:
 * **Exploratory Data Analysis Engine:** Engineered features and applied advanced visualizations on datasets including Play Store metrics, Red Wine quality, and Flight Prices using Python and Pandas.
 * **Algerian Forest Fire Predictor:** Designed an environmental risk modeling project utilizing regression algorithms to predict potential fire outbreaks.
 
----
 ---
 
 ## 📄 Resume & Curriculum Vitae
