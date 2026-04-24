@@ -89,7 +89,7 @@ Beyond the terminal, I believe in the fusion of logic and creativity:
 * **Exploratory Data Analysis Engine:** Engineered features and applied advanced visualizations on datasets including Play Store metrics, Red Wine quality, and Flight Prices using Python and Pandas.
 * **Algerian Forest Fire Predictor:** Designed an environmental risk modeling project utilizing regression algorithms to predict potential fire outbreaks.
 
----
+
 ---
 
 ## 📄 Resume & Curriculum Vitae
