@@ -195,3 +195,10 @@ A testament to my daily commitment to algorithmic problem solving.
 <div align="center">
   <i>"Transforming complex data into elegant, intelligent solutions."</i>
 </div>
+
+
+### 🔧 The Workshop is OPEN! Let’s Build.
+
+Let's sync up, share code, and create something awesome.
+
+<img width="1920" height="1080" alt="cool vibe" src="https://github.com/user-attachments/assets/212c709b-c7f7-4b2b-a3cb-9ae64ad0eb3b" />
