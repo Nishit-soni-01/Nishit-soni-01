@@ -96,7 +96,7 @@ Beyond the terminal, I believe in the fusion of logic and creativity:
 Need a hard copy of my professional background? You can view or download my resume below:
 
 <p align="left">
-  <a href="./Assets/Nishit_Soni_Resume.pdf" target="_blank">
+  <a href="./Assets/NISHIT_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
   </a>
 </p>
