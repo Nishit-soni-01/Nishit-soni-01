@@ -1,3 +1,8 @@
+
+
+
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=🤖%20Hello,%20I'm%20Nishit%20Soni%20🤖&fontSize=50&fontAlignY=35&animation=twinkling&desc=Welcome%20to%20my%20GitHub%20Workspace&descSize=20&descAlignY=55" width="100%" />
 </div>
@@ -174,3 +179,35 @@ A testament to my daily commitment to algorithmic problem solving.
 Let's sync up, share code, and create something awesome.
 
 <img width="1920" height="1080" alt="cool vibe" src="https://github.com/user-attachments/assets/212c709b-c7f7-4b2b-a3cb-9ae64ad0eb3b" />
+
+
+
+:::::::cccccccccc:ccccccccccllllllllclloooolllloooooooo   nishit@soni
+::::::::cccccccccccccccccllllllollllcllooollllooooooood   -----------
+:::::::::ccc::cc:;;:::::clllllloololllloolllloooooooodd   Education: ..... B.Tech ECE @ ABES Engineering College
+:::::cccccllcc:;'.  .....',;:llllloollooloooooolooodddo   Location: ...... Ghaziabad, Uttar Pradesh
+c::c:cccccc:,...           ...''',clooooooooooooooodddo   
+cccc::clc,..                      .;loooooooooooooodddd   Languages: ..... Python, R, SQL, C, C++, Java
+ccccccc:'.                          .:ooooooooooooodddd   Skills: ........ ML/DL, Power BI, Tableau, AWS, Docker, Git
+cccllc;.               ......        'loooooooooooodddd   
+cclll;.           ..',;:cooooo:.     .:oooooooooooddddd   Projects: ...... Sentinel-AI, AI Fire Suppression
+clllc'        ...,;:cloodkOO00Oo:.   .loooooooooodddddd                    Algerian Forest Fire Predictor
+llclc'     ..',:clllloodxxkkO000kl.  .loooooooooooddddd                    E-commerce Sales Analysis Dashboard
+lllclc.   ..;::clloooooc;'',;clddo;. .coodooooooooddddd   
+llcccc:'  .,:;,,,,;::,'......,;ccc:'.;odooooooooooddddd   Hobbies: ....... Sketching, painting, guitar, poetry
+cccclll:.  ''...  ........  .':okxxocoddooooooooooooodd   
+ccccllll:. .'....   'll;;;,,;:ldkk0Oc;lxdoooooooddooood   - Contact --------------------------------------------
+ccccclllo:..,,,'...':oxddocclodkO0K0ocdxdoooooooddddddd   Email: ......... ns2004.soni@gmail.com
+lcccccllll:,;:::;;,;:::;:loodk0KKKK0xd0Odooooooddddoddd   GitHub: ........ nishit-soni-01
+llcccclllcl:,;::ccc:'....;lddxO0K0KOocodooooooodddooood   LinkedIn: ...... nishit-soni-in
+lccccccllll;',cloo:,....',;,',oOOOOxccooooooooooddooooo   Portfolio: ..... nishit-soni-01.github.io
+ccccccccllll:';cc:'...',,,:c::coxdlcloooooooooooooooddo   
+ccccccccllcll;'.,;'',,'...:loc;;cc;oOdlooooooddoooooddd   - Stats ----------------------------------------------
+ccccccccclcccc;..'..';,'.',;,'...,oOKkdoloooooooooooodd   Solved: ........ 960+ algorithmic challenges
+ccccccccclllllcc;..   ...     .':oxO0Okdloooloooooooooo   Streaks: ....... 100-day on LeetCode & CodeChef
+ccccccccccclllllcc,..........':lddx0OOKOc:loooooooooood   
+cccclllllcccllc,;l:,;,,,,;;;;:llooxxkKWXc.,:clooooooooo   
+ccccccccclllc,. 'kk:,,;::::::cllcloxKWWK;....',;:cloooo   
+ccllccc:;,'..   .xXOo:;:ccllcccclxKNWWWk. ....   ..,:cl   
+ccclc;'.        .oXK0Oo::clllccoxkKNNWWd. .....      ..
+
