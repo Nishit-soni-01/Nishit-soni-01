@@ -1,7 +1,7 @@
 ```text
 :::::::cccccccccc:ccccccccccllllllllclloooolllloooooooo   nishit@soni
 ::::::::cccccccccccccccccllllllollllcllooollllooooooood   -----------
-:::::::::ccc::cc:;;:::::clllllloololllloolllloooooooodd   Education: ..... B.Tech ECE @ ABES Engineering College
+:::::::::ccc::cc:;;:::::clllllloololllloolllloooooooodd   Education: ..... B.Tech ELCE @ ABES Engineering College
 :::::cccccllcc:;'.  .....',;:llllloollooloooooolooodddo   Location: ...... Ghaziabad, Uttar Pradesh
 c::c:cccccc:,...           ...''',clooooooooooooooodddo   
 cccc::clc,..                      .;loooooooooooooodddd   Languages: ..... Python (Primary), R, SQL, C, C++, Java
