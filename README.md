@@ -131,6 +131,7 @@ Need a hard copy of my professional background? You can view or download my resu
 </p>
 
 ---
+---
 
 ## 🏆 Hackathons & Innovations
 Real-world problem solving through competitive innovation.
