@@ -109,6 +109,7 @@ Beyond the terminal, I believe in the fusion of logic and creativity:
 </p>
 
 ---
+---
 
 ## 💻 Featured Projects & Systems
 
