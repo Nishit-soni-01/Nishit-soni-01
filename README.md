@@ -1,35 +1,3 @@
-```text
-:::::::cccccccccc:ccccccccccllllllllclloooolllloooooooo   nishit@soni
-::::::::cccccccccccccccccllllllollllcllooollllooooooood   -----------
-:::::::::ccc::cc:;;:::::clllllloololllloolllloooooooodd   Education: ..... B.Tech ELCE @ ABES Engineering College
-:::::cccccllcc:;'.  .....',;:llllloollooloooooolooodddo   Location: ...... Ghaziabad, Uttar Pradesh
-c::c:cccccc:,...           ...''',clooooooooooooooodddo   
-cccc::clc,..                      .;loooooooooooooodddd   Languages: ..... Python (Primary), R, SQL, C, C++, Java
-ccccccc:'.                          .:ooooooooooooodddd   ML/DL & AI: .... ANN, CNN, NLP, Reinforcement Learning,
-cccllc;.               ......        'loooooooooooodddd                    Regression, Classification, Clustering
-cclll;.           ..',;:cooooo:.     .:oooooooooooddddd   Libraries: ..... Pandas, NumPy, Scikit-learn, PyTorch,
-clllc'        ...,;:cloodkOO00Oo:.   .loooooooooodddddd                    TensorFlow, Matplotlib, Seaborn
-llclc'     ..',:clllloodxxkkO000kl.  .loooooooooooddddd   Optimization: .. CV, Grid Search, XGBoost, PCA, LDA
-lllclc.   ..;::clloooooc;'',;clddo;. .coodooooooooddddd   Databases/BI: .. MySQL, SQL Server, BigQuery, Power BI, Tableau
-llcccc:'  .,:;,,,,;::,'......,;ccc:'.;odooooooooooddddd   Cloud & Tools: . AWS, Azure, Snowflake, Git, Jupyter, VS Code
-cccclll:.  ''...  ........  .':okxxocoddooooooooooooodd   
-ccccllll:. .'....   'll;;;,,;:ldkk0Oc;lxdoooooooddooood   Projects: ...... Sentinel-AI Fraud Detection Engine
-ccccclllo:..,,,'...':oxddocclodkO0K0ocdxdoooooooddddddd                    AI-Powered Auto Fire Suppression
-lcccccllll:,;:::;;,;:::;:loodk0KKKK0xd0Odooooooddddoddd                    Algerian Forest Fire Predictor
-llcccclllcl:,;::ccc:'....;lddxO0K0KOocodooooooodddooood                    E-commerce Sales Analysis Dashboard
-lccccccllll;',cloo:,....',;,',oOOOOxccooooooooooddooooo   
-ccccccccllll:';cc:'...',,,:c::coxdlcloooooooooooooooddo   Hobbies: ....... Sketching, painting, guitar, poetry
-ccccccccllcll;'.,;'',,'...:loc;;cc;oOdlooooooddoooooddd   
-ccccccccclcccc;..'..';,'.',;,'...,oOKkdoloooooooooooodd   - Contact --------------------------------------------
-ccccccccclllllcc;..   ...     .':oxO0Okdloooloooooooooo   Email: ......... ns2004.soni@gmail.com
-ccccccccccclllllcc,..........':lddx0OOKOc:loooooooooood   Portfolio: ..... nishit-soni-01.github.io
-cccclllllcccllc,;l:,;,,,,;;;;:llooxxkKWXc.,:clooooooooo   
-ccccccccclllc,. 'kk:,,;::::::cllcloxKWWK;....',;:cloooo   - Competitive Programming ----------------------------
-ccllccc:;,'..   .xXOo:;:ccllcccclxKNWWWk. ....   ..,:cl   LeetCode: ...... Knight Badge | Rating: 1951 | 960+ Qs
-ccclc;'.        .oXK0Oo::clllccoxkKNNWWd. .....      ..   CodeChef: ...... 5-Star | Rating: 2012 | Max Rank: 40
-```
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=🤖%20Hello,%20I'm%20Nishit%20Soni%20🤖&fontSize=50&fontAlignY=35&animation=twinkling&desc=Welcome%20to%20my%20GitHub%20Workspace&descSize=20&descAlignY=55" width="100%" />
 </div>
