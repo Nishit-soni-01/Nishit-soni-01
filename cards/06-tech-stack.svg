@@ -1,5 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="290" viewBox="0 0 800 290" role="img">
-<title>Nishit Soni GitHub profile card</title><style>@keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
-        @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
-        .enter{animation:rise .8s cubic-bezier(.2,.8,.2,1) both}.glow{animation:pulse 2.8s ease-in-out infinite}@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}animate,animateTransform,set{display:none!important}.enter{opacity:1;transform:none}.glow{opacity:1}}text{font-family:Roboto,Arial,sans-serif}.fg{fill:#F7F7E8}.muted{fill:#B8B89F}.green{fill:#DFFF00}</style>
-<rect x="1" y="1" width="798" height="288" rx="2" fill="#050505" stroke="#3A3A20"/><rect x="1" y="1" width="798" height="4" fill="#DFFF00"/><g class="enter"><text x="38" y="38" class="fg" font-size="24" font-weight="900">TOOLS I BUILD WITH.</text><text x="762" y="38" text-anchor="end" class="green" font-size="10" letter-spacing="1.5">MY TECH STACK</text><path d="M38 57H762" stroke="#3A3A20"/><text x="38" y="48" class="green" font-size="10" letter-spacing="1.8">LANGUAGES</text><text x="260" y="48" class="fg" font-size="13">Python  /  JavaScript  /  Java  /  C  /  C++  /  R  /  SQL</text><text x="38" y="104" class="green" font-size="10" letter-spacing="1.8">FRONTEND & BACKEND</text><text x="260" y="104" class="fg" font-size="13">React  /  Redux Toolkit  /  Node.js  /  Express  /  Next.js  /  Tailwind CSS</text><text x="38" y="160" class="green" font-size="10" letter-spacing="1.8">AI / ML & DATA</text><text x="260" y="160" class="fg" font-size="13">TensorFlow  /  PyTorch  /  Scikit-learn  /  Pandas  /  NumPy  /  NLP  /  CNN</text><text x="38" y="216" class="green" font-size="10" letter-spacing="1.8">DATABASES, CLOUD & TOOLS</text><text x="260" y="216" class="fg" font-size="13">PostgreSQL  /  MySQL  /  MongoDB  /  AWS  /  Azure  /  Docker  /  Git</text><path d="M38 239H762" stroke="#3A3A20"/><text x="38" y="267" class="muted" font-size="10">ALWAYS LEARNING. ALWAYS BUILDING.</text></g></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="290" viewBox="0 0 800 290" role="img">
+<title>Nishit Soni Tech Stack</title>
+
+<style>
+@keyframes rise {
+  from { opacity: 0; transform: translateY(18px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.enter { animation: rise .8s cubic-bezier(.2,.8,.2,1) both; }
+text { font-family: Roboto, Arial, sans-serif; }
+.fg { fill: #F7F7E8; }
+.muted { fill: #B8B89F; }
+.green { fill: #DFFF00; }
+</style>
+
+<rect x="1" y="1" width="798" height="288" rx="2" fill="#050505" stroke="#3A3A20"/>
+<rect x="1" y="1" width="798" height="4" fill="#DFFF00"/>
+
+<g class="enter">
+  <text x="38" y="38" class="fg" font-size="24" font-weight="900">TOOLS I BUILD WITH.</text>
+  <text x="762" y="38" text-anchor="end" class="green" font-size="10" letter-spacing="1.5">MY TECH STACK</text>
+
+  <path d="M38 57H762" stroke="#3A3A20"/>
+
+  <text x="38" y="48" class="green" font-size="10" letter-spacing="1.8">LANGUAGES</text>
+  <text x="260" y="48" class="fg" font-size="13">Python / JavaScript / Java / C / C++ / R / SQL</text>
+
+  <text x="38" y="104" class="green" font-size="10" letter-spacing="1.8">FRONTEND &amp; BACKEND</text>
+  <text x="260" y="104" class="fg" font-size="13">React / Redux Toolkit / Node.js / Express / Next.js / Tailwind CSS</text>
+
+  <text x="38" y="160" class="green" font-size="10" letter-spacing="1.8">AI / ML &amp; DATA</text>
+  <text x="260" y="160" class="fg" font-size="13">TensorFlow / PyTorch / Scikit-learn / Pandas / NumPy / NLP / CNN</text>
+
+  <text x="38" y="216" class="green" font-size="10" letter-spacing="1.8">DATABASES, CLOUD &amp; TOOLS</text>
+  <text x="260" y="216" class="fg" font-size="13">PostgreSQL / MySQL / MongoDB / AWS / Azure / Docker / Git</text>
+
+  <path d="M38 239H762" stroke="#3A3A20"/>
+  <text x="38" y="267" class="muted" font-size="10">ALWAYS LEARNING. ALWAYS BUILDING.</text>
+</g>
+</svg>
