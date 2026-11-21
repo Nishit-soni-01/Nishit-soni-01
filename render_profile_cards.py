@@ -10,9 +10,9 @@ DATA = Path(os.getenv('PROFILE_DATA', ROOT / 'contributions.json'))
 STATIC = os.getenv('STATIC', '0') == '1'
 FONT_FILE = os.getenv('FONT_FILE', '')
 PORTRAIT = os.getenv('PORTRAIT', '')
-# Portfolio V2 reference: black, white, vivid green; Roboto body.
-BG, FG, GREEN, MUTED = '#000000', '#FFFFFF', '#00C853', '#A8A8A8'
-BORDER, PANEL, FONT = '#303030', '#101010', 'Roboto'
+# Updated palette: near-black, warm white, electric neon yellow.
+BG, FG, GREEN, MUTED = '#050505', '#F7F7E8', '#DFFF00', '#B8B89F'
+BORDER, PANEL, FONT = '#3A3A20', '#10110A', 'Roboto'
 PROFILE = {
  'name':'NISHIT SONI.',
  'line':'I build intelligent systems and digital experiences that solve real-world problems.',
@@ -74,6 +74,23 @@ def tiles():
         body=f'''<a class="enter" style="animation-delay:{i*.18:.2f}s" xlink:href="{esc(url)}"><rect x="1" y="1" width="258" height="116" fill="{PANEL}" stroke="{BORDER}"/><text x="20" y="34" class="green" font-size="10">0{i} / CONNECT</text><text x="20" y="68" class="fg" font-size="20" font-weight="800">{name}</text><text x="20" y="94" class="muted" font-size="11">{sub}</text><text x="235" y="35" text-anchor="end" class="green" font-size="18">↗</text></a>'''
         save(f'02-tile-{i}.svg',doc(260,118,body))
 
+def about_card():
+    body=f'''<g class="enter"><text x="38" y="42" class="green" font-size="11" letter-spacing="2.5">A LITTLE ABOUT ME</text><text x="38" y="86" class="fg" font-size="25" font-weight="900">CURIOUS BY NATURE. BUILDER BY CHOICE.</text><text x="38" y="128" class="muted" font-size="14">I'm Nishit Soni, an aspiring AI/ML Engineer and Software Developer.</text><text x="38" y="157" class="muted" font-size="14">I enjoy building intelligent systems, data-driven solutions and full-stack</text><text x="38" y="186" class="muted" font-size="14">experiences that solve real-world problems.</text><path d="M38 213H762" stroke="{BORDER}"/><text x="38" y="245" class="green" font-size="11" letter-spacing="1.2">AI / MACHINE LEARNING</text><text x="290" y="245" class="green" font-size="11" letter-spacing="1.2">DATA SCIENCE</text><text x="500" y="245" class="green" font-size="11" letter-spacing="1.2">FULL-STACK DEVELOPMENT</text></g>'''
+    save('05-about.svg',doc(800,275,body))
+
+def tech_stack_card():
+    groups=[
+      ('LANGUAGES','Python  /  JavaScript  /  Java  /  C  /  C++  /  R  /  SQL',48),
+      ('FRONTEND & BACKEND','React  /  Redux Toolkit  /  Node.js  /  Express  /  Next.js  /  Tailwind CSS',104),
+      ('AI / ML & DATA','TensorFlow  /  PyTorch  /  Scikit-learn  /  Pandas  /  NumPy  /  NLP  /  CNN',160),
+      ('DATABASES, CLOUD & TOOLS','PostgreSQL  /  MySQL  /  MongoDB  /  AWS  /  Azure  /  Docker  /  Git',216),
+    ]
+    rows=[]
+    for label,items,y in groups:
+      rows.append(f'<text x="38" y="{y}" class="green" font-size="10" letter-spacing="1.8">{label}</text><text x="260" y="{y}" class="fg" font-size="13">{esc(items)}</text>')
+    body=f'''<g class="enter"><text x="38" y="38" class="fg" font-size="24" font-weight="900">TOOLS I BUILD WITH.</text><text x="762" y="38" text-anchor="end" class="green" font-size="10" letter-spacing="1.5">MY TECH STACK</text><path d="M38 57H762" stroke="{BORDER}"/>{''.join(rows)}<path d="M38 239H762" stroke="{BORDER}"/><text x="38" y="267" class="muted" font-size="10">ALWAYS LEARNING. ALWAYS BUILDING.</text></g>'''
+    save('06-tech-stack.svg',doc(800,290,body))
+
 def activity(d):
     months=d.get('months',[])[-12:]; maxv=max([int(x.get('total',0)) for x in months]+[1]); bars=[]
     for i,m in enumerate(months):
@@ -91,7 +108,7 @@ def repos():
         save(f'04-repo-{i:02d}.svg',doc(800,260,body))
 
 def contribution_graph(d):
-    days=d.get('calendar',d.get('days',[]))[-371:]; maxv=max([int(x.get('count',0)) for x in days]+[1]); palette=['#151515','#075C2C','#008A3B','#00B94B',GREEN]; squares=[]
+    days=d.get('calendar',d.get('days',[]))[-371:]; maxv=max([int(x.get('count',0)) for x in days]+[1]); palette=['#17180D','#505A00','#899900','#B7D900',GREEN]; squares=[]
     for i,day in enumerate(days):
         col,row=divmod(i,7); count=int(day.get('count',0)); level=0 if count==0 else min(4,max(1,round(4*count/maxv))); x,y=42+col*13,66+row*13
         squares.append(f'<rect class="enter" style="animation-delay:{min(i*.002,.7):.3f}s" x="{x}" y="{y}" width="10" height="10" rx="1" fill="{palette[level]}"><title>{esc(day.get("date",""))}: {count} contributions</title></rect>')
@@ -101,6 +118,6 @@ def contribution_graph(d):
 def main():
     if not DATA.exists(): raise SystemExit(f'Missing {DATA}. Fetch contribution data first.')
     d=json.loads(DATA.read_text(encoding='utf-8')); d.setdefault('months',[]); d.setdefault('calendar',d.get('days',[]))
-    OUT.mkdir(parents=True,exist_ok=True); hero(); tiles(); activity(d); repos(); contribution_graph(d)
+    OUT.mkdir(parents=True,exist_ok=True); hero(); tiles(); about_card(); tech_stack_card(); activity(d); repos(); contribution_graph(d)
     print(f'Rendered {len(list(OUT.glob("*.svg")))} cards in {OUT}; STATIC={int(STATIC)}')
 if __name__=='__main__': main()
