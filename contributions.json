@@ -1,0 +1,17 @@
+{
+  "total_contributions": 120,
+  "streak": 5,
+  "active_days": 18,
+  "busiest_day": "Wednesday",
+  "months": [
+    {"label": "Jan", "total": 20},
+    {"label": "Feb", "total": 35},
+    {"label": "Mar", "total": 28},
+    {"label": "Apr", "total": 37}
+  ],
+  "calendar": [
+    {"date": "2026-11-01", "count": 2},
+    {"date": "2026-11-02", "count": 5},
+    {"date": "2026-11-03", "count": 1}
+  ]
+}
