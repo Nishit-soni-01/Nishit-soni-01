@@ -1,41 +1,84 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="290" viewBox="0 0 800 290" role="img">
-<title>Nishit Soni Tech Stack</title>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800" height="590" viewBox="0 0 800 590"
+     role="img">
+<title>Nishit Soni - Full Stack, Data and AI Tech Stack</title>
 
 <style>
-@keyframes rise {
-  from { opacity: 0; transform: translateY(18px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-.enter { animation: rise .8s cubic-bezier(.2,.8,.2,1) both; }
-text { font-family: Roboto, Arial, sans-serif; }
-.fg { fill: #F7F7E8; }
-.muted { fill: #B8B89F; }
-.green { fill: #DFFF00; }
+  text { font-family: Arial, Helvetica, sans-serif; }
+  .heading { fill: #F7F7E8; font-size: 25px; font-weight: 900; }
+  .category { fill: #DFFF00; font-size: 11px; font-weight: bold; letter-spacing: 1.3px; }
+  .skill { fill: #F7F7E8; font-size: 12px; }
+  .muted { fill: #B8B89F; font-size: 10px; }
+  .line { stroke: #3A3A20; stroke-width: 1; }
 </style>
 
-<rect x="1" y="1" width="798" height="288" rx="2" fill="#050505" stroke="#3A3A20"/>
-<rect x="1" y="1" width="798" height="4" fill="#DFFF00"/>
+<rect x="1" y="1" width="798" height="588" rx="3"
+      fill="#050505" stroke="#3A3A20"/>
+<rect x="1" y="1" width="798" height="5" fill="#DFFF00"/>
 
-<g class="enter">
-  <text x="38" y="38" class="fg" font-size="24" font-weight="900">TOOLS I BUILD WITH.</text>
-  <text x="762" y="38" text-anchor="end" class="green" font-size="10" letter-spacing="1.5">MY TECH STACK</text>
+<!-- Header -->
+<text x="38" y="45" class="heading">MY TECH STACK.</text>
+<text x="762" y="43" text-anchor="end"
+      class="category">FULL-STACK / DATA / AI</text>
+<line x1="38" y1="65" x2="762" y2="65" class="line"/>
 
-  <path d="M38 57H762" stroke="#3A3A20"/>
+<!-- 01 Programming -->
+<text x="38" y="103" class="category">01 / LANGUAGES</text>
+<text x="250" y="103" class="skill">
+  Python / JavaScript ES6+ / HTML5 / CSS3 / SQL / C / C++ / Java / R
+</text>
+<line x1="38" y1="125" x2="762" y2="125" class="line"/>
 
-  <text x="38" y="48" class="green" font-size="10" letter-spacing="1.8">LANGUAGES</text>
-  <text x="260" y="48" class="fg" font-size="13">Python / JavaScript / Java / C / C++ / R / SQL</text>
+<!-- 02 Web development -->
+<text x="38" y="163" class="category">02 / WEB DEVELOPMENT</text>
+<text x="250" y="155" class="skill">
+  <tspan x="250" dy="0">React / Redux Toolkit / Zustand / Node.js / Express / Flask</tspan>
+  <tspan x="250" dy="20">Tailwind CSS / REST APIs / Custom Authentication / Particles.js</tspan>
+</text>
+<line x1="38" y1="195" x2="762" y2="195" class="line"/>
 
-  <text x="38" y="104" class="green" font-size="10" letter-spacing="1.8">FRONTEND &amp; BACKEND</text>
-  <text x="260" y="104" class="fg" font-size="13">React / Redux Toolkit / Node.js / Express / Next.js / Tailwind CSS</text>
+<!-- 03 Machine learning -->
+<text x="38" y="233" class="category">03 / AI &amp; MACHINE LEARNING</text>
+<text x="250" y="225" class="skill">
+  <tspan x="250" dy="0">Regression / Classification / KNN / SVM / Naive Bayes / K-Means</tspan>
+  <tspan x="250" dy="20">ANN / CNN / NLP / Reinforcement Learning / TensorFlow / PyTorch</tspan>
+  <tspan x="250" dy="20">Scikit-learn / XGBoost / PCA / LDA / Cross-Validation / Grid Search</tspan>
+</text>
+<line x1="38" y1="280" x2="762" y2="280" class="line"/>
 
-  <text x="38" y="160" class="green" font-size="10" letter-spacing="1.8">AI / ML &amp; DATA</text>
-  <text x="260" y="160" class="fg" font-size="13">TensorFlow / PyTorch / Scikit-learn / Pandas / NumPy / NLP / CNN</text>
+<!-- 04 Data analytics -->
+<text x="38" y="318" class="category">04 / DATA &amp; BI</text>
+<text x="250" y="310" class="skill">
+  <tspan x="250" dy="0">Pandas / NumPy / Matplotlib / Seaborn</tspan>
+  <tspan x="250" dy="20">Power BI / Tableau / DAX / Power Query / Advanced Excel</tspan>
+</text>
+<line x1="38" y1="350" x2="762" y2="350" class="line"/>
 
-  <text x="38" y="216" class="green" font-size="10" letter-spacing="1.8">DATABASES, CLOUD &amp; TOOLS</text>
-  <text x="260" y="216" class="fg" font-size="13">PostgreSQL / MySQL / MongoDB / AWS / Azure / Docker / Git</text>
+<!-- 05 Databases -->
+<text x="38" y="388" class="category">05 / DATABASES &amp; ORMs</text>
+<text x="250" y="380" class="skill">
+  <tspan x="250" dy="0">PostgreSQL / MySQL / SQLite / SQL Server / BigQuery / NeonDB</tspan>
+  <tspan x="250" dy="20">MongoDB / Mongoose / Prisma / Drizzle</tspan>
+</text>
+<line x1="38" y1="420" x2="762" y2="420" class="line"/>
 
-  <path d="M38 239H762" stroke="#3A3A20"/>
-  <text x="38" y="267" class="muted" font-size="10">ALWAYS LEARNING. ALWAYS BUILDING.</text>
-</g>
+<!-- 06 Cloud and tools -->
+<text x="38" y="458" class="category">06 / CLOUD &amp; DEVOPS</text>
+<text x="250" y="450" class="skill">
+  <tspan x="250" dy="0">AWS EC2 / Elastic Beanstalk / Microsoft Azure / Snowflake</tspan>
+  <tspan x="250" dy="20">Docker / Git / Custom VPS Deployment</tspan>
+  <tspan x="250" dy="20">VS Code / Postman / Jupyter / LangChain / TensorFlow.js</tspan>
+</text>
+
+<line x1="38" y1="505" x2="762" y2="505" class="line"/>
+
+<!-- Footer -->
+<text x="38" y="545" class="muted">
+  BUILDING APPLICATIONS. EXPLORING DATA. ENGINEERING INTELLIGENCE.
+</text>
+<text x="762" y="545" text-anchor="end" class="category">
+  ALWAYS LEARNING.
+</text>
+
 </svg>
