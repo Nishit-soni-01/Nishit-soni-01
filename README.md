@@ -8,10 +8,10 @@
   <a href="https://nishvay-portfolio-v2.vercel.app/">
     <img src="cards/02-tile-1.svg" width="32.5%" alt="Portfolio" />
   </a>
-  <a href="YOUR-LINKEDIN-URL">
+  <a href="https://www.linkedin.com/in/nishit-soni-in/">
     <img src="cards/02-tile-2.svg" width="32.5%" alt="LinkedIn" />
   </a>
-  <a href="YOUR-LEETCODE-URL">
+  <a href="https://leetcode.com/u/Nishit_soni12004/">
     <img src="cards/02-tile-3.svg" width="32.5%" alt="LeetCode" />
   </a>
 </p>
