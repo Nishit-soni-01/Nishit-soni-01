@@ -79,17 +79,111 @@ def about_card():
     save('05-about.svg',doc(800,275,body))
 
 def tech_stack_card():
-    groups=[
-      ('LANGUAGES','Python  /  JavaScript  /  Java  /  C  /  C++  /  R  /  SQL',48),
-      ('FRONTEND & BACKEND','React  /  Redux Toolkit  /  Node.js  /  Express  /  Next.js  /  Tailwind CSS',104),
-      ('AI / ML & DATA','TensorFlow  /  PyTorch  /  Scikit-learn  /  Pandas  /  NumPy  /  NLP  /  CNN',160),
-      ('DATABASES, CLOUD & TOOLS','PostgreSQL  /  MySQL  /  MongoDB  /  AWS  /  Azure  /  Docker  /  Git',216),
+    groups = [
+        (
+            '01 / LANGUAGES',
+            [
+                'Python / JavaScript ES6+ / HTML5 / CSS3 / SQL / C / C++ / Java / R'
+            ],
+            103
+        ),
+        (
+            '02 / WEB DEVELOPMENT',
+            [
+                'React / Redux Toolkit / Zustand / Node.js / Express / Flask',
+                'Tailwind CSS / REST APIs / Custom Authentication / Particles.js'
+            ],
+            163
+        ),
+        (
+            '03 / AI & MACHINE LEARNING',
+            [
+                'Regression / Classification / KNN / SVM / Naive Bayes / K-Means',
+                'ANN / CNN / NLP / Reinforcement Learning / TensorFlow / PyTorch',
+                'Scikit-learn / XGBoost / PCA / LDA / Cross-Validation / Grid Search'
+            ],
+            233
+        ),
+        (
+            '04 / DATA & BI',
+            [
+                'Pandas / NumPy / Matplotlib / Seaborn',
+                'Power BI / Tableau / DAX / Power Query / Advanced Excel'
+            ],
+            318
+        ),
+        (
+            '05 / DATABASES & ORMs',
+            [
+                'PostgreSQL / MySQL / SQLite / SQL Server / BigQuery / NeonDB',
+                'MongoDB / Mongoose / Prisma / Drizzle'
+            ],
+            388
+        ),
+        (
+            '06 / CLOUD & DEVOPS',
+            [
+                'AWS EC2 / Elastic Beanstalk / Microsoft Azure / Snowflake',
+                'Docker / Git / Custom VPS Deployment',
+                'VS Code / Postman / Jupyter / LangChain / TensorFlow.js'
+            ],
+            458
+        )
     ]
-    rows=[]
-    for label,items,y in groups:
-      rows.append(f'<text x="38" y="{y}" class="green" font-size="10" letter-spacing="1.8">{label}</text><text x="260" y="{y}" class="fg" font-size="13">{esc(items)}</text>')
-    body=f'''<g class="enter"><text x="38" y="38" class="fg" font-size="24" font-weight="900">TOOLS I BUILD WITH.</text><text x="762" y="38" text-anchor="end" class="green" font-size="10" letter-spacing="1.5">MY TECH STACK</text><path d="M38 57H762" stroke="{BORDER}"/>{''.join(rows)}<path d="M38 239H762" stroke="{BORDER}"/><text x="38" y="267" class="muted" font-size="10">ALWAYS LEARNING. ALWAYS BUILDING.</text></g>'''
-    save('06-tech-stack.svg',doc(800,290,body))
+
+    rows = []
+
+    for label, skills, y in groups:
+        rows.append(
+            f'<text x="38" y="{y}" class="green" '
+            f'font-size="11" font-weight="bold" '
+            f'letter-spacing="1.3">{esc(label)}</text>'
+        )
+
+        for index, skill in enumerate(skills):
+            rows.append(
+                f'<text x="250" y="{y + index * 20}" '
+                f'class="fg" font-size="12">{esc(skill)}</text>'
+            )
+
+    separators = [125, 195, 280, 350, 420, 505]
+
+    lines = ''.join(
+        f'<path d="M38 {y}H762" stroke="{BORDER}"/>'
+        for y in separators
+    )
+
+    body = f'''
+    <g class="enter">
+        <text x="38" y="45" class="fg"
+              font-size="25" font-weight="900">
+            MY TECH STACK.
+        </text>
+
+        <text x="762" y="43" text-anchor="end"
+              class="green" font-size="11"
+              font-weight="bold" letter-spacing="1.3">
+            FULL-STACK / DATA / AI
+        </text>
+
+        <line x1="38" y1="65" x2="762" y2="65"
+              stroke="{BORDER}"/>
+
+        {''.join(rows)}
+        {lines}
+
+        <text x="38" y="545" class="muted" font-size="10">
+            BUILDING APPLICATIONS. EXPLORING DATA. ENGINEERING INTELLIGENCE.
+        </text>
+
+        <text x="762" y="545" text-anchor="end"
+              class="green" font-size="10">
+            ALWAYS LEARNING.
+        </text>
+    </g>
+    '''
+
+    save('06-tech-stack.svg', doc(800, 590, body))
 
 def activity(d):
     months=d.get('months',[])[-12:]; maxv=max([int(x.get('total',0)) for x in months]+[1]); bars=[]

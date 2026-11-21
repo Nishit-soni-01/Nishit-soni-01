@@ -1,84 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="590" viewBox="0 0 800 590" role="img">
+<title>Nishit Soni GitHub profile card</title><style>@keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+        @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+        .enter{animation:rise .8s cubic-bezier(.2,.8,.2,1) both}.glow{animation:pulse 2.8s ease-in-out infinite}@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}animate,animateTransform,set{display:none!important}.enter{opacity:1;transform:none}.glow{opacity:1}}text{font-family:Roboto,Arial,sans-serif}.fg{fill:#F7F7E8}.muted{fill:#B8B89F}.green{fill:#DFFF00}</style>
+<rect x="1" y="1" width="798" height="588" rx="2" fill="#050505" stroke="#3A3A20"/><rect x="1" y="1" width="798" height="4" fill="#DFFF00"/>
+    <g class="enter">
+        <text x="38" y="45" class="fg"
+              font-size="25" font-weight="900">
+            MY TECH STACK.
+        </text>
 
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="800" height="590" viewBox="0 0 800 590"
-     role="img">
-<title>Nishit Soni - Full Stack, Data and AI Tech Stack</title>
+        <text x="762" y="43" text-anchor="end"
+              class="green" font-size="11"
+              font-weight="bold" letter-spacing="1.3">
+            FULL-STACK / DATA / AI
+        </text>
 
-<style>
-  text { font-family: Arial, Helvetica, sans-serif; }
-  .heading { fill: #F7F7E8; font-size: 25px; font-weight: 900; }
-  .category { fill: #DFFF00; font-size: 11px; font-weight: bold; letter-spacing: 1.3px; }
-  .skill { fill: #F7F7E8; font-size: 12px; }
-  .muted { fill: #B8B89F; font-size: 10px; }
-  .line { stroke: #3A3A20; stroke-width: 1; }
-</style>
+        <line x1="38" y1="65" x2="762" y2="65"
+              stroke="#3A3A20"/>
 
-<rect x="1" y="1" width="798" height="588" rx="3"
-      fill="#050505" stroke="#3A3A20"/>
-<rect x="1" y="1" width="798" height="5" fill="#DFFF00"/>
+        <text x="38" y="103" class="green" font-size="11" font-weight="bold" letter-spacing="1.3">01 / LANGUAGES</text><text x="250" y="103" class="fg" font-size="12">Python / JavaScript ES6+ / HTML5 / CSS3 / SQL / C / C++ / Java / R</text><text x="38" y="163" class="green" font-size="11" font-weight="bold" letter-spacing="1.3">02 / WEB DEVELOPMENT</text><text x="250" y="163" class="fg" font-size="12">React / Redux Toolkit / Zustand / Node.js / Express / Flask</text><text x="250" y="183" class="fg" font-size="12">Tailwind CSS / REST APIs / Custom Authentication / Particles.js</text><text x="38" y="233" class="green" font-size="11" font-weight="bold" letter-spacing="1.3">03 / AI &amp; MACHINE LEARNING</text><text x="250" y="233" class="fg" font-size="12">Regression / Classification / KNN / SVM / Naive Bayes / K-Means</text><text x="250" y="253" class="fg" font-size="12">ANN / CNN / NLP / Reinforcement Learning / TensorFlow / PyTorch</text><text x="250" y="273" class="fg" font-size="12">Scikit-learn / XGBoost / PCA / LDA / Cross-Validation / Grid Search</text><text x="38" y="318" class="green" font-size="11" font-weight="bold" letter-spacing="1.3">04 / DATA &amp; BI</text><text x="250" y="318" class="fg" font-size="12">Pandas / NumPy / Matplotlib / Seaborn</text><text x="250" y="338" class="fg" font-size="12">Power BI / Tableau / DAX / Power Query / Advanced Excel</text><text x="38" y="388" class="green" font-size="11" font-weight="bold" letter-spacing="1.3">05 / DATABASES &amp; ORMs</text><text x="250" y="388" class="fg" font-size="12">PostgreSQL / MySQL / SQLite / SQL Server / BigQuery / NeonDB</text><text x="250" y="408" class="fg" font-size="12">MongoDB / Mongoose / Prisma / Drizzle</text><text x="38" y="458" class="green" font-size="11" font-weight="bold" letter-spacing="1.3">06 / CLOUD &amp; DEVOPS</text><text x="250" y="458" class="fg" font-size="12">AWS EC2 / Elastic Beanstalk / Microsoft Azure / Snowflake</text><text x="250" y="478" class="fg" font-size="12">Docker / Git / Custom VPS Deployment</text><text x="250" y="498" class="fg" font-size="12">VS Code / Postman / Jupyter / LangChain / TensorFlow.js</text>
+        <path d="M38 125H762" stroke="#3A3A20"/><path d="M38 195H762" stroke="#3A3A20"/><path d="M38 280H762" stroke="#3A3A20"/><path d="M38 350H762" stroke="#3A3A20"/><path d="M38 420H762" stroke="#3A3A20"/><path d="M38 505H762" stroke="#3A3A20"/>
 
-<!-- Header -->
-<text x="38" y="45" class="heading">MY TECH STACK.</text>
-<text x="762" y="43" text-anchor="end"
-      class="category">FULL-STACK / DATA / AI</text>
-<line x1="38" y1="65" x2="762" y2="65" class="line"/>
+        <text x="38" y="545" class="muted" font-size="10">
+            BUILDING APPLICATIONS. EXPLORING DATA. ENGINEERING INTELLIGENCE.
+        </text>
 
-<!-- 01 Programming -->
-<text x="38" y="103" class="category">01 / LANGUAGES</text>
-<text x="250" y="103" class="skill">
-  Python / JavaScript ES6+ / HTML5 / CSS3 / SQL / C / C++ / Java / R
-</text>
-<line x1="38" y1="125" x2="762" y2="125" class="line"/>
-
-<!-- 02 Web development -->
-<text x="38" y="163" class="category">02 / WEB DEVELOPMENT</text>
-<text x="250" y="155" class="skill">
-  <tspan x="250" dy="0">React / Redux Toolkit / Zustand / Node.js / Express / Flask</tspan>
-  <tspan x="250" dy="20">Tailwind CSS / REST APIs / Custom Authentication / Particles.js</tspan>
-</text>
-<line x1="38" y1="195" x2="762" y2="195" class="line"/>
-
-<!-- 03 Machine learning -->
-<text x="38" y="233" class="category">03 / AI &amp; MACHINE LEARNING</text>
-<text x="250" y="225" class="skill">
-  <tspan x="250" dy="0">Regression / Classification / KNN / SVM / Naive Bayes / K-Means</tspan>
-  <tspan x="250" dy="20">ANN / CNN / NLP / Reinforcement Learning / TensorFlow / PyTorch</tspan>
-  <tspan x="250" dy="20">Scikit-learn / XGBoost / PCA / LDA / Cross-Validation / Grid Search</tspan>
-</text>
-<line x1="38" y1="280" x2="762" y2="280" class="line"/>
-
-<!-- 04 Data analytics -->
-<text x="38" y="318" class="category">04 / DATA &amp; BI</text>
-<text x="250" y="310" class="skill">
-  <tspan x="250" dy="0">Pandas / NumPy / Matplotlib / Seaborn</tspan>
-  <tspan x="250" dy="20">Power BI / Tableau / DAX / Power Query / Advanced Excel</tspan>
-</text>
-<line x1="38" y1="350" x2="762" y2="350" class="line"/>
-
-<!-- 05 Databases -->
-<text x="38" y="388" class="category">05 / DATABASES &amp; ORMs</text>
-<text x="250" y="380" class="skill">
-  <tspan x="250" dy="0">PostgreSQL / MySQL / SQLite / SQL Server / BigQuery / NeonDB</tspan>
-  <tspan x="250" dy="20">MongoDB / Mongoose / Prisma / Drizzle</tspan>
-</text>
-<line x1="38" y1="420" x2="762" y2="420" class="line"/>
-
-<!-- 06 Cloud and tools -->
-<text x="38" y="458" class="category">06 / CLOUD &amp; DEVOPS</text>
-<text x="250" y="450" class="skill">
-  <tspan x="250" dy="0">AWS EC2 / Elastic Beanstalk / Microsoft Azure / Snowflake</tspan>
-  <tspan x="250" dy="20">Docker / Git / Custom VPS Deployment</tspan>
-  <tspan x="250" dy="20">VS Code / Postman / Jupyter / LangChain / TensorFlow.js</tspan>
-</text>
-
-<line x1="38" y1="505" x2="762" y2="505" class="line"/>
-
-<!-- Footer -->
-<text x="38" y="545" class="muted">
-  BUILDING APPLICATIONS. EXPLORING DATA. ENGINEERING INTELLIGENCE.
-</text>
-<text x="762" y="545" text-anchor="end" class="category">
-  ALWAYS LEARNING.
-</text>
-
-</svg>
+        <text x="762" y="545" text-anchor="end"
+              class="green" font-size="10">
+            ALWAYS LEARNING.
+        </text>
+    </g>
+    </svg>
