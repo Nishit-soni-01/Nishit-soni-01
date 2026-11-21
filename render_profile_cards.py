@@ -21,7 +21,7 @@ PROFILE = {
  'linkedin':'https://www.linkedin.com/', 'leetcode':'https://leetcode.com/'
 }
 REPOS = [
- ('Sentinel-AI: Real-Time Fraud Mitigation Engine','Cost-sensitive fraud detection for highly imbalanced financial data.','Python · AWS · Docker · Machine Learning','https://github.com/Nishit-soni-01'),
+ ('Riverflow Q&A','Cost-sensitive fraud detection for highly imbalanced financial data.','Python · AWS · Docker · Machine Learning','https://github.com/Nishit-soni-01'),
  ('Algerian Forest Fire Predictor','A predictive web application forecasting the Fire Weather Index.','Python · Flask · Ridge Regression · AWS','https://github.com/Nishit-soni-01'),
  ('E-commerce Sales Analysis Dashboard','Business intelligence dashboard for sales, profit and product insights.','Power BI · DAX · Data Analytics','https://github.com/Nishit-soni-01'),
  ('Personal Portfolio & Showcase Engine','A responsive portfolio for full-stack, AI/ML and data projects.','Next.js · React · Tailwind CSS','https://github.com/Nishit-soni-01')]
