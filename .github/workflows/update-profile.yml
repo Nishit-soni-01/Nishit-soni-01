@@ -1,0 +1,130 @@
+
+name: Update Animated GitHub Profile
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install font tools
+        run: pip install fonttools
+
+      - name: Fetch contribution data
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          FROM=$(date -u -d '1 year ago' +%Y-%m-%dT00:00:00Z)
+          TO=$(date -u +%Y-%m-%dT23:59:59Z)
+
+          gh api graphql \
+            -f query='query($from: DateTime!, $to: DateTime!) {
+              user(login: "Nishit-soni-01") {
+                contributionsCollection(from: $from, to: $to) {
+                  contributionCalendar {
+                    totalContributions
+                    weeks {
+                      contributionDays {
+                        date
+                        contributionCount
+                        weekday
+                      }
+                    }
+                  }
+                }
+              }
+            }' \
+            -F from="$FROM" \
+            -F to="$TO" > contribution-raw.json
+
+      - name: Prepare contribution JSON
+        run: |
+          python - <<'PY'
+          import json
+          from collections import defaultdict
+          from datetime import date, timedelta
+
+          raw = json.load(open("contribution-raw.json"))
+          cal = raw["data"]["user"]["contributionsCollection"]["contributionCalendar"]
+
+          days = [
+              {
+                  "date": d["date"],
+                  "count": d["contributionCount"],
+                  "weekday": d["weekday"]
+              }
+              for week in cal["weeks"]
+              for d in week["contributionDays"]
+          ]
+
+          monthly = defaultdict(int)
+          weekdays = defaultdict(int)
+
+          for d in days:
+              monthly[d["date"][:7]] += d["count"]
+              weekdays[d["weekday"]] += d["count"]
+
+          today = date.today()
+          by_date = {date.fromisoformat(d["date"]): d["count"] for d in days}
+          cursor = today if by_date.get(today, 0) else today - timedelta(days=1)
+          streak = 0
+
+          while by_date.get(cursor, 0) > 0:
+              streak += 1
+              cursor -= timedelta(days=1)
+
+          active = sum(1 for d in days if d["count"] > 0)
+          labels = []
+          for month, count in sorted(monthly.items())[-12:]:
+              y, m = map(int, month.split("-"))
+              import calendar
+              labels.append({
+                  "label": calendar.month_abbr[m],
+                  "total": count
+              })
+
+          output = {
+              "login": "Nishit-soni-01",
+              "total_contributions": cal["totalContributions"],
+              "months": labels,
+              "calendar": days,
+              "days": days,
+              "streak": streak,
+              "active_days": active,
+              "busiest_day": max(
+                  weekdays,
+                  key=weekdays.get,
+                  default="—"
+              )
+          }
+
+          with open("contributions.json", "w") as f:
+              json.dump(output, f, indent=2)
+          PY
+
+      - name: Render SVG cards
+        run: python render_profile_cards.py
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cards/ contributions.json
+          git diff --cached --quiet || \
+            git commit -m "chore: update animated profile cards"
+          git push
