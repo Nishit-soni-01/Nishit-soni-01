@@ -1,4 +1,4 @@
- <!-- HERO CARD -->
+<!-- HERO CARD -->
 <p align="center">
   <img src="cards/01-hero.svg" width="100%" alt="Nishit Soni - AI/ML Engineer and Software Developer" />
 </p>
@@ -20,14 +20,9 @@
 
 ## ABOUT ME
 
-I'm Nishit Soni, an aspiring **AI/ML Engineer and Software Developer** passionate about building intelligent systems and meaningful digital experiences.
-
-- Interested in Artificial Intelligence, Machine Learning and Data Science.
-- Building full-stack applications and intelligent automation systems.
-- Exploring modern technologies and solving real-world problems.
-- Constantly learning, experimenting and improving my skills.
-
-**Portfolio:** [nishvay-portfolio-v2.vercel.app](https://nishvay-portfolio-v2.vercel.app/)
+<p align="center">
+  <img src="cards/05-about.svg" width="100%" alt="About Nishit Soni" />
+</p>
 
 ---
 
@@ -42,34 +37,8 @@ I'm Nishit Soni, an aspiring **AI/ML Engineer and Software Developer** passionat
 
 ## TECH STACK
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,r,mysql" />
-</p>
-
-**Frontend & Backend Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind,nextjs" />
-</p>
-
-**AI / ML & Data Science**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-**Databases & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,azure,docker" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<p align="center">
+  <img src="cards/06-tech-stack.svg" width="100%" alt="Nishit Soni Tech Stack" />
 </p>
 
 ---
@@ -101,7 +70,7 @@ Explore more projects on my [GitHub repositories](https://github.com/Nishit-soni
   <a href="https://nishvay-portfolio-v2.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="YOUR-LINKEDIN-URL">
+  <a href="https://www.linkedin.com/in/nishit-soni-in/">
     <img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Nishit-soni-01">
