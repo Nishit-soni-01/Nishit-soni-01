@@ -21,7 +21,11 @@ PROFILE = {
     'role': 'AI/ML ENGINEER  ✳  SOFTWARE DEVELOPER  ✳  DATA SCIENCE',
     'portfolio': 'https://nishvay-portfolio-v2.vercel.app/',
     'linkedin': 'https://www.linkedin.com/',
-    'leetcode': 'https://leetcode.com/'
+    'leetcode': 'https://leetcode.com/',
+    'resume': os.getenv(
+        'RESUME_URL',
+        'https://github.com/Nishit-soni-01/Nishit-soni-01/raw/main/Nishit_Soni_Resume.pdf'
+    )
 }
 
 REPOS = [
@@ -67,7 +71,7 @@ def font_rule():
         return ''
     OUT.mkdir(parents=True, exist_ok=True)
     woff = OUT / 'profile-font.woff'
-    chars = 'NISHIT SONI AI ML ENGINEER SOFTWARE DEVELOPER DATA SCIENCE PORTFOLIO LINKEDIN LEETCODE CONNECT WITH ME EXPLORE MY WORK CONTRIBUTIONS ACTIVE DAYS CURRENT STREAK BUSIEST DAY PROJECTS SMALL STEPS MEANINGFUL PROGRESS'
+    chars = 'NISHIT SONI AI ML ENGINEER SOFTWARE DEVELOPER DATA SCIENCE PORTFOLIO LINKEDIN LEETCODE CONNECT WITH ME EXPLORE MY WORK DOWNLOAD RESUME CONTRIBUTIONS ACTIVE DAYS CURRENT STREAK BUSIEST DAY PROJECTS SMALL STEPS MEANINGFUL PROGRESS'
     for r in REPOS: chars += ''.join(r[:3])
     subprocess.run(['pyftsubset', str(src), f'--text={chars}', '--flavor=woff', f'--output-file={woff}', '--layout-features=*'], check=True)
     b64 = base64.b64encode(woff.read_bytes()).decode('ascii')
@@ -165,6 +169,12 @@ def tech_stack_card():
     body = f'''<g class="enter"><text x="38" y="38" class="fg" font-size="24" font-weight="900">TOOLS I BUILD WITH.</text><text x="762" y="38" text-anchor="end" class="green glow" font-size="10" letter-spacing="1.5">MY TECH STACK</text><path class="bar-sweep" d="M38 57H762" stroke="{BORDER}"/></g>{''.join(rows)}<g class="enter" style="animation-delay:.74s"><path class="bar-sweep" d="M38 239H762" stroke="{BORDER}"/><text x="38" y="267" class="muted" font-size="10">ALWAYS LEARNING. ALWAYS BUILDING.</text></g>'''
     save('06-tech-stack.svg', doc(800, 290, body))
 
+def resume_card():
+    btn_pulse = '' if STATIC else '<animate attributeName="opacity" values="0.85;1;0.85" dur="2.4s" repeatCount="indefinite"/>'
+    arrow_down = '' if STATIC else '<animateTransform attributeName="transform" type="translate" values="0,0;0,3;0,0" dur="1.8s" repeatCount="indefinite"/>'
+    body = f'''<g class="enter"><text x="38" y="42" class="green" font-size="11" letter-spacing="2.2">CURRICULUM VITAE</text><text x="762" y="42" text-anchor="end" class="green glow" font-size="10" letter-spacing="1.5">RESUME</text><text x="38" y="84" class="fg" font-size="24" font-weight="900">DOWNLOAD RESUME.</text><text x="38" y="116" class="muted" font-size="13">Explore my experience, projects, education and technical skills in one place.</text><path class="bar-sweep" d="M38 140H762" stroke="{BORDER}"/><text x="38" y="168" class="green" font-size="11" letter-spacing="1.1">AI / ML · FULL-STACK · DATA SCIENCE</text><a xlink:href="{esc(PROFILE['resume'])}"><g class="floaty"><rect x="572" y="148" width="190" height="36" rx="2" fill="{GREEN}">{btn_pulse}</rect><text x="667" y="171" text-anchor="middle" fill="#000000" font-size="11" font-weight="800">DOWNLOAD RESUME {arrow_down}↓</text></g></a></g>'''
+    save('07-resume.svg', doc(800, 204, body))
+
 def activity(d):
     months = d.get('months', [])[-12:]; maxv = max([int(x.get('total', 0)) for x in months] + [1]); bars = []
     for i, m in enumerate(months):
@@ -194,7 +204,7 @@ def contribution_graph(d):
 def main():
     if not DATA.exists(): raise SystemExit(f'Missing {DATA}. Fetch contribution data first.')
     d = json.loads(DATA.read_text(encoding='utf-8')); d.setdefault('months', []); d.setdefault('calendar', d.get('days', []))
-    OUT.mkdir(parents=True, exist_ok=True); hero(); tiles(); connect_card(); about_card(); tech_stack_card(); activity(d); repos(); contribution_graph(d)
+    OUT.mkdir(parents=True, exist_ok=True); hero(); tiles(); connect_card(); about_card(); tech_stack_card(); resume_card(); activity(d); repos(); contribution_graph(d)
     print(f'Rendered {len(list(OUT.glob("*.svg")))} cards in {OUT}; STATIC={int(STATIC)}')
 
 if __name__ == '__main__': main()

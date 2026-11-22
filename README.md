@@ -6,6 +6,7 @@
 
 [![About](./cards/05-about.svg)](https://nishvay-portfolio-v2.vercel.app/)
 [![Tech Stack](./cards/06-tech-stack.svg)](https://nishvay-portfolio-v2.vercel.app/)
+[![Download Resume](./cards/07-resume.svg)](https://github.com/Nishit-soni-01/Nishit-soni-01/raw/main/Nishit_Soni_Resume.pdf)
 [![Activity](./cards/03-activity.svg)](https://github.com/Nishit-soni-01)
 
 [![Cloudinary Studio](./cards/04-repo-01.svg)](https://cloudinary-saas-teal.vercel.app/)
