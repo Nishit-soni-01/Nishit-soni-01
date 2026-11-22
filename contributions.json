@@ -1,7 +1,7 @@
 {
-  "total_contributions": 526,
-  "streak": 64,
-  "active_days": 236,
+  "total_contributions": 538,
+  "streak": 65,
+  "active_days": 237,
   "busiest_day": "Saturday",
   "months": [
     {
@@ -50,14 +50,10 @@
     },
     {
       "label": "Nov",
-      "total": 52
+      "total": 64
     }
   ],
   "calendar": [
-    {
-      "date": "2025-11-22",
-      "count": 0
-    },
     {
       "date": "2025-11-23",
       "count": 0
@@ -1512,7 +1508,11 @@
     },
     {
       "date": "2026-11-21",
-      "count": 16
+      "count": 22
+    },
+    {
+      "date": "2026-11-22",
+      "count": 6
     }
   ]
 }
