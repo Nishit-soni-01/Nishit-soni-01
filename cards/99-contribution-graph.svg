@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="240" viewBox="0 0 800 240" role="img">
 <title>Nishit Soni GitHub profile card</title><style>@keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
         @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
         @keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
