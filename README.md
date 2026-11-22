@@ -1,87 +1,19 @@
-<!-- HERO CARD -->
-<p align="center">
-  <img src="cards/01-hero.svg" width="100%" alt="Nishit Soni - AI/ML Engineer and Software Developer" />
-</p>
+<div align="center">
 
-<!-- SOCIAL / PROFILE TILES -->
-<p align="center">
-  <a href="https://nishvay-portfolio-v2.vercel.app/">
-    <img src="cards/02-tile-1.svg" width="32.5%" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/nishit-soni-in/">
-    <img src="cards/02-tile-2.svg" width="32.5%" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/Nishit_soni12004/">
-    <img src="cards/02-tile-3.svg" width="32.5%" alt="LeetCode" />
-  </a>
-</p>
+[![Hero](./cards/01-hero.svg)](https://nishvay-portfolio-v2.vercel.app/)
 
----
+[![Connect With Me](./cards/02-connect.svg)](https://nishvay-portfolio-v2.vercel.app/)
 
-## ABOUT ME
+[![About](./cards/05-about.svg)](https://nishvay-portfolio-v2.vercel.app/)
+[![Tech Stack](./cards/06-tech-stack.svg)](https://nishvay-portfolio-v2.vercel.app/)
+[![Activity](./cards/03-activity.svg)](https://github.com/Nishit-soni-01)
 
-<p align="center">
-  <img src="cards/05-about.svg" width="100%" alt="About Nishit Soni" />
-</p>
+[![Cloudinary Studio](./cards/04-repo-01.svg)](https://cloudinary-saas-teal.vercel.app/)
+[![InvoiceFlow AI](./cards/04-repo-02.svg)](https://invoiceflow-ai-self.vercel.app/)
+[![AI-Powered Predictive Maintenance](./cards/04-repo-03.svg)](https://github.com/Nishit-soni-01/AI-Powered-Predictive-Maintenance-for-Electrical-Systems)
+[![VideoTube Backend API](./cards/04-repo-04.svg)](https://github.com/Nishit-soni-01/videtube-backend)
+[![T-Shirt Sales Analysis Dashboard](./cards/04-repo-05.svg)](https://github.com/Nishit-soni-01/T-Shirt-Sales-Analysis-Dashboard-with-Power-BI)
 
----
+[![Contribution Graph](./cards/99-contribution-graph.svg)](https://github.com/Nishit-soni-01)
 
-<!-- ACTIVITY CARD -->
-## GITHUB ACTIVITY
-
-<p align="center">
-  <img src="cards/03-activity.svg" width="100%" alt="GitHub activity statistics" />
-</p>
-
----
-
-## TECH STACK
-
-<p align="center">
-  <img src="cards/06-tech-stack.svg" width="100%" alt="Nishit Soni Tech Stack" />
-</p>
-
----
-
-## FEATURED PROJECTS
-
-<p align="center">
-  <img src="cards/04-repo-01.svg" width="100%" alt="Featured project 1" />
-  <img src="cards/04-repo-02.svg" width="100%" alt="Featured project 2" />
-  <img src="cards/04-repo-03.svg" width="100%" alt="Featured project 3" />
-  <img src="cards/04-repo-04.svg" width="100%" alt="Featured project 4" />
-</p>
-
-Explore more projects on my [GitHub repositories](https://github.com/Nishit-soni-01?tab=repositories).
-
----
-
-## CONTRIBUTION GRAPH
-
-<p align="center">
-  <img src="cards/99-contribution-graph.svg" width="100%" alt="GitHub contribution graph" />
-</p>
-
----
-
-## CONNECT WITH ME
-
-<p align="center">
-  <a href="https://nishvay-portfolio-v2.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/nishit-soni-in/">
-    <img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Nishit-soni-01">
-    <img src="https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Building. Learning. Creating. Improving.</i>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-</p>
+</div>
